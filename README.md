@@ -1,4 +1,4 @@
-# iconswap
+# IconSwap
 IconSwap es una applicacion la cual cambia el icono de los ejecutables que desees
 su uso es simple solo selecciona el .exe y el .ico que desees y luego dale a "Cambiar Icono"
 
